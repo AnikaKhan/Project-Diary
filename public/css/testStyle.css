@@ -1,0 +1,71 @@
+#header{
+    width: 100%;
+    height:90px;
+    background: #D3CFC7;
+    box-shadow:2px 2px 2px 2px; 
+    box-shadow: 0px 1px 8px 2px;
+    position: relative;
+}
+#Project_Logo{
+    top: 20px;
+    left: 150px;
+    color: black;
+    font-size: 40px;
+    font-family: comic;
+    font-weight: bold; 
+    position: absolute;
+}
+#pic{
+    width: 100px;
+    height: 90px;
+    left: 500px;
+    border-radius: 50%;
+}
+.headerBtn1{
+    top: 25px;
+    left: 1150px;
+    position: absolute;
+                            
+    
+    color: black;                         
+    height: 30px;                      
+    width: 120px;
+    border-radius: 8px;
+}
+
+.headerBtn2{
+   
+    top: 25px;
+    left: 1050px;
+    position: absolute;
+                            
+    top: 25px;               
+    color: black;                         
+    height: 30px;                      
+    width: 120px;
+    border-radius: 8px;
+}
+
+.headerBtn3{
+   top: 25px;
+    left: 950px;
+    position: absolute;
+                            
+     color: black;                         
+    height: 30px;                      
+    width: 120px;
+    border-radius: 8px;
+}
+.group {
+    width: 200px;
+}
+
+.Create{
+   border-radius: 10px;
+   height: 30px;
+    width: 200px;
+    color: green;
+    background: #D3CFC7;
+   
+
+}

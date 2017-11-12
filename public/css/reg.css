@@ -1,0 +1,27 @@
+#formdiv{
+	width: 240px;
+	margin: 0px auto;
+	
+}
+
+#header{
+	background-color: #62487C; 
+	width: 100%;
+	height:90px;
+	background: #62487C;
+	box-shadow:2px 2px 2px 2px; 
+	box-shadow: 0px 1px 8px 2px;
+}
+
+#nav li{
+    display: inline;
+    text-align: left;
+    padding-right:15px; 
+    font-size: 100%;
+}
+
+#nav{
+    background-color: #7CAA66;
+    height: 45%;
+    width: 100%;
+    }
